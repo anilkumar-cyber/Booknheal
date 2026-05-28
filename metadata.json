@@ -1,0 +1,6 @@
+{
+  "name": "BookNheal",
+  "description": "Smart Healthcare Simplified - AI-powered appointment booking, telemedicine, digital prescriptions, and online healthcare ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

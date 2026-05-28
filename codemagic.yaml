@@ -2,8 +2,8 @@ workflows:
 flutter-android-workflow:
 name: Flutter Android Build
 
-environment:
-  flutter: stable
+    environment:
+      flutter: stable
 
 scripts:
   - name: Install dependencies
